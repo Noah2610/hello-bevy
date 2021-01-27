@@ -1,0 +1,5 @@
+/target
+/log/
+*.log
+/bin/util.sh
+_ignore/

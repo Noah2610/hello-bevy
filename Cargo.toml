@@ -1,0 +1,12 @@
+[package]
+name = "hello-bevy"
+version = "0.0.0"
+authors = ["Noah Rosenzweig <rosenzweig.noah@gmail.com>"]
+edition = "2018"
+
+[features]
+default = []
+dev = ["bevy/dynamic"]
+
+[dependencies]
+bevy = "0.4.0"
