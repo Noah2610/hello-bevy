@@ -2,6 +2,7 @@ extern crate bevy;
 
 mod components;
 mod plugins;
+mod resources;
 mod systems;
 
 use bevy::app::App;
